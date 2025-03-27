@@ -1,0 +1,927 @@
+{
+  "Files": [
+    {
+      "FileName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res.pdf_chunk_0.bin",
+          "Sha256": "ae089158ad5563c524c839e569d6b0c2374463adc5cef3e59978c604dc671059"
+        },
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res.pdf_chunk_1.bin",
+          "Sha256": "7031d2a88c7bd7205583ff23acd87fad074d107541d7107b6c09832118457321"
+        }
+      ]
+    },
+    {
+      "FileName": "Finxter_WorldsMostDensePythonCheatSheet.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "Finxter_WorldsMostDensePythonCheatSheet.pdf_chunk_0.bin",
+          "Sha256": "380252b7b263253e29c8e9cdf9b55503b78fe4d015e8d2ad28737914fae31ef3"
+        },
+        {
+          "ChunkName": "Finxter_WorldsMostDensePythonCheatSheet.pdf_chunk_1.bin",
+          "Sha256": "398e0ab84bd8b154f94f6007c82917ba3e48c31bbf5a10e458d168b798aef40d"
+        }
+      ]
+    },
+    {
+      "FileName": "machine leaning roadmap by anartificial intelligence(chatGPT).txt",
+      "Chunks": [
+        {
+          "ChunkName": "machine leaning roadmap by anartificial intelligence(chatGPT).txt_chunk_0.bin",
+          "Sha256": "9b5333147a2a3dc2c5a2e6263e42b1c725ee2c07f27136452ad18d7af77185c7"
+        }
+      ]
+    },
+    {
+      "FileName": "cp.txt",
+      "Chunks": [
+        {
+          "ChunkName": "cp.txt_chunk_0.bin",
+          "Sha256": "1a422c0c40d67a63e33f0e3e58a21117aba7adfccd324ad534212746e0bdc5ba"
+        }
+      ]
+    },
+    {
+      "FileName": "54e558538a5b9003dbe8896fb6338669.jpg",
+      "Chunks": [
+        {
+          "ChunkName": "54e558538a5b9003dbe8896fb6338669.jpg_chunk_0.bin",
+          "Sha256": "29c3b00497773d2e400f8c0a32d9b76acec7a8ccc2d2ff96bcfe4732583932e4"
+        }
+      ]
+    },
+    {
+      "FileName": "KA41R5092.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "KA41R5092.pdf_chunk_0.bin",
+          "Sha256": "307096d28f171804599863e520feed31f3299cd7f522bade781c2ddb44f600cb"
+        }
+      ]
+    },
+    {
+      "FileName": "intro to statistical computing with R.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_0.bin",
+          "Sha256": "5f729a913f1d83b924a0a712fedd300bd16f82533b91235452ce234ec6f20e1f"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_1.bin",
+          "Sha256": "990b0b09d98083845c8026b6bb164a8de1d68d63a1bafc6a476c707b0d686317"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_2.bin",
+          "Sha256": "857eda3512520dd83be553261edad1a66a30528c38a12e725bed0a33c7497abd"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_3.bin",
+          "Sha256": "bfa7727ec7774362bcca7a1794fc63a31adbf58df1b5fd5ccd45aaaf808007ff"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_4.bin",
+          "Sha256": "b94b8db7ad82054bc027438426f56bf4f69cac44171e3364a4caf81c61698ef9"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_5.bin",
+          "Sha256": "6d2484f952fab2d3176e6c3edd902f0ef67a1266e4230e179691704738105995"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_6.bin",
+          "Sha256": "b49cd4d81a82f46cc551bf0e9f8d56abf6d50ca802a1b28c63bb4f371a041c9c"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_7.bin",
+          "Sha256": "a7bc40bf25390f5a5004b17be633882f6ca6cc02c1d2ae4787a3ccbfda20af58"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_8.bin",
+          "Sha256": "823ac75aca042640726cae7f6fa34921e4f448a1b0ae2d65269549a1893edb05"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_9.bin",
+          "Sha256": "2a740f6f5688cf7b31e74c33411be7017d57efd2a0bfeeabaab96b7510dcfb58"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_10.bin",
+          "Sha256": "85e4190ad04654d57e66728d2f047c56a6d9fef7a8bfa5b096fa96250837bbb8"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_11.bin",
+          "Sha256": "53b53fc438619964417b0c24dec035dde07870dbac8a4e7eafa3675325d3a87c"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_12.bin",
+          "Sha256": "0966592f60807b00c95c2e254570e70323021452349eb0829135f9fd796c845e"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_13.bin",
+          "Sha256": "364af07b8c2907daf901e63b34274a701357de630560bee5ae8270d981d8589f"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_14.bin",
+          "Sha256": "45af2bcb71333137054b45ad07f357dc65dc6e3b5dfb78268b93ac9c8edc7b3f"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_15.bin",
+          "Sha256": "0e00794361b35f3ab8b22755489a87ba6b888eff8ee4c01025ff0c1618f8c585"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_16.bin",
+          "Sha256": "f0190cb306faf9ceaa39fbbf8c74a308f0c807ca8929c2d59291474772af7022"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_17.bin",
+          "Sha256": "9770906761c10f5cad4cebe9aa11d75c1a08425daf0b92d2625bbe1e364735d2"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_18.bin",
+          "Sha256": "5420c5731af376bf02858ea588ef04e4fa4e6328b3bc14a4ecbc5edc71ad2420"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_19.bin",
+          "Sha256": "d4bf2decc2ca76c590446d3dbb3e3ea3b8bbc13d5379bdb7167252927678cb6b"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_20.bin",
+          "Sha256": "aaa7a4e412f563ef5ec6dd3c78842bd662d5e9990c4da797a15c78608fc083cc"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_21.bin",
+          "Sha256": "ed5134fad1be6f840d21c93ab610e0cd1a77b906f1f1b0d1046213e404c4fd6f"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_22.bin",
+          "Sha256": "6e38054243f7d1e91ca06a6545a9890573e6088d7a6b582d08ccf5596747d155"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_23.bin",
+          "Sha256": "bf45133766cd26e0309e21e649a74001b101f2e58a89bb04b4753feb28151a2b"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_24.bin",
+          "Sha256": "23bcb13f1018a4daeeb394e1e2e23431db3ddfb7d5afaf903edef884c294b654"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_25.bin",
+          "Sha256": "862edcecf02dbacda601a149b5d9d72ef8c08a2524d5ec3dce178a0c75604f1a"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_26.bin",
+          "Sha256": "e570d32a631b1ce2bb4dc0c0dfc87d920745deb4ca1d85c694b8eacfe2d29f3c"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_27.bin",
+          "Sha256": "0d183f48e1924ce5e99f286c04491b36a3730c12bceaec98a956b7fe9250f0bf"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_28.bin",
+          "Sha256": "7854b154cbb2f23dc83e81c9c7255312946d19f7a37a1cbc3dea4d7f23333442"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_29.bin",
+          "Sha256": "a60c08adc5c6a16bf6efaa7ce0cf0de94d59786298c4b0b1e7b049da7e48f186"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_30.bin",
+          "Sha256": "a683d958c53e855708cee2852ebc4b280688eff020dfd327743b5983b5a5230a"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_31.bin",
+          "Sha256": "0110615d25e0df99a8cd1644662bbbba079857134c7d03ab536bf67c715e7ddc"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_32.bin",
+          "Sha256": "3277c29a7a28d41c3c3fab23f33d572f2f1339aecadf5c70f73affbe2f7c08b2"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_33.bin",
+          "Sha256": "433a77d3ba508aa8e81ec126cd06d8fdb8897eeaab124bde12e940b1e9952fdc"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_34.bin",
+          "Sha256": "c55f7ad26065758d4a694620de8f76c2234233993539b272f3f401abcc49f598"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_35.bin",
+          "Sha256": "1771ad5090610e114fbea391265b0f714e08b4405135520cd04f396bc3ae4705"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_36.bin",
+          "Sha256": "fcc8e01b81aecaaec5c6a72c2de82d605693386a1e44030a215bb527d83bb068"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_37.bin",
+          "Sha256": "b898e766321ce993c07a9c72a14e10a79223e44dc2817a9473e74e8345089cf5"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_38.bin",
+          "Sha256": "dd1c9e7e91f4a940d7c3c5b34294a343e251dc3ac9cfc0c861beab3888c3931e"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_39.bin",
+          "Sha256": "93baab4e475b4b5fe9c38bdaf5b196b1a4f36f71575d247343a3fe2f9f111fba"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_40.bin",
+          "Sha256": "0554f7a885521a3e84530ab128c17b7ac622c6fbd0a412d1dacafe5b37c91518"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_41.bin",
+          "Sha256": "8774307a06df5695716115b8993dedeb4975b52322a62af58724353f6a6c50e0"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_42.bin",
+          "Sha256": "1e389b71b535b6c23961376bce52f73648bb9fe7a87a9cf1f8b0c83fc5082a2a"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_43.bin",
+          "Sha256": "2d123f963a96625044c054c7a2ab8ecdc446380e6784edca7fa6b705bd0637be"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_44.bin",
+          "Sha256": "532b9680bb3d108deb1144ab49106979ec50d0cfa3fcb5101e4484427cfec66a"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_45.bin",
+          "Sha256": "c34a0a7b949b7ea8c8ab146f320c0e0da2513892e366693110be31399dfe7a14"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_46.bin",
+          "Sha256": "8367f151678835673b47052ec23b1dbb72a847aaea7eb7526aa788a4c33f036f"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_47.bin",
+          "Sha256": "1ab1c85e451643bb207401aff573b7c34f5cf7b34e1cbb12a14e8d81c863f6ad"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_48.bin",
+          "Sha256": "7286f181eccbc0738dfe32bd2d0e7d90b7296f831be3af46c2ceaeeed8c0a179"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_49.bin",
+          "Sha256": "e2f27185722a17aaf557509b78e62d9378c08db1779de8ba1e33cba34752a801"
+        },
+        {
+          "ChunkName": "intro to statistical computing with R.pdf_chunk_50.bin",
+          "Sha256": "6d3eccb0cff92f8c3d485c8a8427eb54483641bd4218624c83df526ff9ed91ad"
+        }
+      ]
+    },
+    {
+      "FileName": "how-is-this-lock-screen-v0-v1qkha59mq4d1.webp",
+      "Chunks": [
+        {
+          "ChunkName": "how-is-this-lock-screen-v0-v1qkha59mq4d1.webp_chunk_0.bin",
+          "Sha256": "370d1813b05c990d0790d350ac062f78fa3b19b7294a2df7e43e2c34f102000b"
+        }
+      ]
+    },
+    {
+      "FileName": "Finxter_OpenAI_Glossary.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "Finxter_OpenAI_Glossary.pdf_chunk_0.bin",
+          "Sha256": "f9be13ccd3180e8d6293c2b816ba029ac16d5b58951e9008083aac7c6de134bc"
+        },
+        {
+          "ChunkName": "Finxter_OpenAI_Glossary.pdf_chunk_1.bin",
+          "Sha256": "73cabd84b01c562819edc15ab0ea49d23177dda46474fbffeef7618d0377420c"
+        }
+      ]
+    },
+    {
+      "FileName": "CheatSheet-Python-1_-Keywords1.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "CheatSheet-Python-1_-Keywords1.pdf_chunk_0.bin",
+          "Sha256": "bc6d3301968920e6050ccbe02a42a3d0bfc39ae9c2af4bf8777b079c70f58e84"
+        }
+      ]
+    },
+    {
+      "FileName": "Finxter-Python-Cheat-Sheet-Complex-Data-Types.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "Finxter-Python-Cheat-Sheet-Complex-Data-Types.pdf_chunk_0.bin",
+          "Sha256": "b65c8f6f02fded797a00c6871e268d94150e04c2e647702e55cd4f94d6353512"
+        }
+      ]
+    },
+    {
+      "FileName": "book.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "book.pdf_chunk_0.bin",
+          "Sha256": "5171596e60537e26b9ffe3f8107ad762ce08bc1b88aae4d57220677b80bcbd59"
+        },
+        {
+          "ChunkName": "book.pdf_chunk_1.bin",
+          "Sha256": "5b2d11bbabdcda6e20859d069c917ea6d9ed061e0c583abe7a57cdcc2180e021"
+        },
+        {
+          "ChunkName": "book.pdf_chunk_2.bin",
+          "Sha256": "aba5969a92278878d4be263ae5d0fc10c484e13955ed7bea74a30e5d6a3f1629"
+        },
+        {
+          "ChunkName": "book.pdf_chunk_3.bin",
+          "Sha256": "ee14c710139f407139cbb0effc3f2cefd74a6fe9ae6053f847d3bf6ad7258c7d"
+        },
+        {
+          "ChunkName": "book.pdf_chunk_4.bin",
+          "Sha256": "9470fe27cb0c700a90fe2e64d844d5e00683d3125b6149399d4346d0d24c27a4"
+        }
+      ]
+    },
+    {
+      "FileName": "CheatSheet-Python-2_-Data-Structures.docx.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "CheatSheet-Python-2_-Data-Structures.docx.pdf_chunk_0.bin",
+          "Sha256": "145cd86ea8acdaf20d411f521d17d2ed9516dc85505030ad926093c40c4d3d45"
+        }
+      ]
+    },
+    {
+      "FileName": "CheatSheet-Python-6_-Coding-Interview-Questions.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "CheatSheet-Python-6_-Coding-Interview-Questions.pdf_chunk_0.bin",
+          "Sha256": "2f71f258fffb437bbc858171ff0317020f8dc8fe7df3f449a53cc72abb95d27c"
+        }
+      ]
+    },
+    {
+      "FileName": "DSA-Decoded.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_0.bin",
+          "Sha256": "55b11c6172a7cb809a33e08e72e9ad45b6de9af7a9f585cf47ff3914c5d6f932"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_1.bin",
+          "Sha256": "2da4a9625533fa579d213a2932804d31584a5d15225408d82a444cc96d54e3a3"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_2.bin",
+          "Sha256": "e76f876d761702103845eee8679dcb5dbf933aac9f3731c4410bafd13e702401"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_3.bin",
+          "Sha256": "1aea7eb7472a754c8c3a82baf37c1833e9e2203c44661881fbc37b39240257c9"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_4.bin",
+          "Sha256": "15d220b45848d57802530a76a07148247138c558d8bc12ad984b1e134ed45b3e"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_5.bin",
+          "Sha256": "3b2c3714a6af541457febaba77fdde96003c4931b48be988781e48fdd744930f"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_6.bin",
+          "Sha256": "ae2d1c133dab153ae3aa1fc22bcc86c9290b7ff4abaedd7ae03e1a7b6126258a"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_7.bin",
+          "Sha256": "a9a5b044f6163011476fd3f09c8b390b63352a9c9708ab4f9e948f40d06a93fb"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_8.bin",
+          "Sha256": "3a2481182f28299684c87817d91e51fac973e1a41b626af5e77086181cb97ee1"
+        },
+        {
+          "ChunkName": "DSA-Decoded.pdf_chunk_9.bin",
+          "Sha256": "c989ed908fa480b4f6063c48f506642032766b45666daf1900b103ab1675e34e"
+        }
+      ]
+    },
+    {
+      "FileName": "CSE_2022_Curriculum.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_0.bin",
+          "Sha256": "eae01b9782471addacc74e721c5383e4d00ce7fbe7e7fb6f606babc2caadf775"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_1.bin",
+          "Sha256": "8865361bc48d4dc8f136336dedd19e6405a1eb424153f795c0128c91a55f11b9"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_2.bin",
+          "Sha256": "b2c4607a67d769f604e85bba557506e180809eb6b0f5b6b646a941c3ce0392bf"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_3.bin",
+          "Sha256": "90a0f2fa97aba65de4e2e6dbd3bc804378db15e2b7805f40c469774233d5bb59"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_4.bin",
+          "Sha256": "58113878fc29e54352e1efc281db2747f0b392b816a727456a473cbca336547d"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_5.bin",
+          "Sha256": "57f58ef1a99295e7c8a70407aaedbab2e471b6d56da66f17e90d506132e6a341"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_6.bin",
+          "Sha256": "15015ac01566d8c0b54943b1917ec4aac619418d1db37712bee7d96731012a6d"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_7.bin",
+          "Sha256": "90625a2bdd359566a07a785c3e24c6baaa36e3379625defad7df8a34a3f641ab"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_8.bin",
+          "Sha256": "37cabe5297c008444e42f30ec8a7e629226e032884252c890b7fae7e7e167575"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_9.bin",
+          "Sha256": "55567ad5ca3cc465f8c31cafb6bec07008a3ab23b39db426ff76017f83fb762c"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_10.bin",
+          "Sha256": "62f174fb20faf719525c8f81baf661e6878629612a4e1272163f6724d48353d8"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_11.bin",
+          "Sha256": "d58b2ab8317ba13d88c9d2df43ffba07e5bbcfce28615bcfbbaa1dc9a9574508"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_12.bin",
+          "Sha256": "641dffebee364b7c789cfb3f629603d5c921b39f7f3ddf6e5eef0d8eaf4cc32c"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_13.bin",
+          "Sha256": "05b44916cc360e751630b1a355fa74faf091ff943fcfe75b74d7cb9372b779aa"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_14.bin",
+          "Sha256": "45932b116dde7779da55eeb5195578f016a94e0c119abd36ae80a701ebee18b9"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_15.bin",
+          "Sha256": "8483c459cee4ea62a4271c715cdde6676aef6c736a3d66894ada7a67dd9a1bd3"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_16.bin",
+          "Sha256": "55a3b177e9f5c986acfcbc210a00841bfdad2a256ffee6b3a673f464515c5d07"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_17.bin",
+          "Sha256": "eecf02ee321d0ac6b0f74a99223f8c7d675027859cabc8539920e4d532159023"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_18.bin",
+          "Sha256": "250ed0028eb99d182ce71ab97da5afd008b9ff58fbde8c2d3aa0e5863d982a6a"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_19.bin",
+          "Sha256": "01c30bcf27d687fd92703618dae0f10726620a2036a661b5322b832089df448e"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_20.bin",
+          "Sha256": "1be80a6c8dad088000a237293aae757ae367f871d61d1beebdb460408abbac3f"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_21.bin",
+          "Sha256": "c788a3369c6b377902d12d02a369026b554cc0859b01eb0104ae644aa955f14b"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_22.bin",
+          "Sha256": "35b32d859a07394887ea83b476bdd0282db5fbb1e7fa66735990c99a9d357b39"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_23.bin",
+          "Sha256": "7d3dd553691e34e80492b981d1d282dfc81a2c2f87c05e2d9655606ab72f222d"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_24.bin",
+          "Sha256": "851d5ee92a5e94b3194e107083db6a7c46d7cb89d2fd4fc8ccda90689233b0e8"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_25.bin",
+          "Sha256": "73e2f8981a388e11914f206da2268751331d39c05e54fb8bcb6b4f16f276e29e"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_26.bin",
+          "Sha256": "bc8badcc6ff55c071459b8c8248ad98a4959d1f7a1fed07f19956072bf4a5727"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_27.bin",
+          "Sha256": "29b44813ccf990ad49d39a944f2f5db27acdeb1a348d5e31aca6ac7ac1759afc"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_28.bin",
+          "Sha256": "bab5057ae972c3920fdaf634c83a00e8263fa9a41562508c0228037c899c1edd"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_29.bin",
+          "Sha256": "12f7245a792b2a4d3b1f0db7f8a8e06d3a7a89e2d8e1d1c05f61baece5355701"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_30.bin",
+          "Sha256": "652bff763f149d09698f8d0a98d41d67e4fa2008e4e595fada85d8836374ec23"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_31.bin",
+          "Sha256": "488b58292986fada375133be3c6a5c3f0b9ede53c3a83104313d0e28dc41e51f"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_32.bin",
+          "Sha256": "ab71e00926bbaa3fa041c8cb3c90e7c74815126d0085dd4f4337bcff1583d25c"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_33.bin",
+          "Sha256": "499f2471d65d0b36a45d748b993f7a4dd206562b6595c1f39787924ec5fe0b38"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_34.bin",
+          "Sha256": "2d63688085150990a65627b4490914cdb0c0296cc6ac1aa8ef0725849a69faa4"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_35.bin",
+          "Sha256": "bf367f686a2b85f83f6ab69d58918d5bbfad572567b8fc1c83b9cd7438f3bc27"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_36.bin",
+          "Sha256": "4e52082b8dc0c89f0d0cca56d6100519fb39b5297c5982af58aa25f176482593"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_37.bin",
+          "Sha256": "31a5a3b29ae24fde148e979f7027df6ac89602368815eee1713b59287c84877b"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_38.bin",
+          "Sha256": "ace43f7ddd97b14ffea223debbbdb0779fb014e6c1d08709406aea5c959b9b62"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_39.bin",
+          "Sha256": "676a577edec3c3ecd66ddb84256f1c57509341cb3f87b203c5dd34f7c8dd8331"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_40.bin",
+          "Sha256": "6484e9d8693f6afd94fc1e1f1507dfb637e6faa932b6d841f11f67b618248f45"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_41.bin",
+          "Sha256": "4b2fb44902cac3d371562550c8338b3f9d01cfdcf0248f452fd8e32e682ea03d"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_42.bin",
+          "Sha256": "44a977d5c0a245c0b406f4ff3e8301b6ad7aa630d2da65e85ef61dc33d5f1ab4"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_43.bin",
+          "Sha256": "10f9b7fd14cf161cd575b5189f9b2b337d5b874dce5d2f6e499b186db1ccd5f3"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_44.bin",
+          "Sha256": "f72a34856ebb68fdc37b950c25d3760bc744856d69780d5d0ed8465a74a635c1"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_45.bin",
+          "Sha256": "e0ad4748b087faca3b70c35e6b05a93a835cebdae161ad84f11ab1ca92748839"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_46.bin",
+          "Sha256": "527cee9d57e6059ca779a978305772c46eb64e17757612b364abc358ce94e326"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_47.bin",
+          "Sha256": "715a0e8f01fc64a1e19bbbccc4ef3e5a49b770ef832759864f6e25d8915497fd"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_48.bin",
+          "Sha256": "e9cafc6269b14df29827a58479e9364738efb18d5d22e9f09961b4d4497f9627"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_49.bin",
+          "Sha256": "3b024eb0207ff280487913ee010f4b6a157e191fbec7b8296007a6492e8c3364"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_50.bin",
+          "Sha256": "9dc458c1c6d25cb7d1697fd6f5c93f8963215402ab963e673c6ad2367df706bd"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_51.bin",
+          "Sha256": "3382b22657071c115f23374f865ca22a89579dfd8ebba8a28cbd9097a38689a0"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_52.bin",
+          "Sha256": "0a27c238c4195ad203cdd74937c8cc11d1c193a2f472044bbdaf578c1c9be881"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_53.bin",
+          "Sha256": "55777c6915d05e6ff69d9cd652ec8ab4c03581097f2ec14cb2fbfaab89a29ec4"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_54.bin",
+          "Sha256": "f022ed6999f6ecea89a6949a5602b7c379954086d4043a72c132fccdf6d7e719"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_55.bin",
+          "Sha256": "90844d9c6550ae334330e2cf26532fa0e1c6de75756bac778f07438375f1a9ac"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_56.bin",
+          "Sha256": "1c1f00dd09f7d54c80697f6a7efb21eeae309201fb1e70a8b0e19db05d11226d"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_57.bin",
+          "Sha256": "9226526e79a4591fe8e6684882263cd80a96919932273b25ea9e70dd62e6bd13"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_58.bin",
+          "Sha256": "c104f589565dc877adbf24e6f9c4f0b3e50a2ff2026abfdc92939a43a1829949"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_59.bin",
+          "Sha256": "43833ae55bd15ef85c7631d9b81ae2250c882fdacc9a609be3a1f9575a6fa506"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_60.bin",
+          "Sha256": "47e4adf7ee5f5b7904a11c71b5cf20cca051789644d542b050c9b7aaa1daca8b"
+        },
+        {
+          "ChunkName": "CSE_2022_Curriculum.pdf_chunk_61.bin",
+          "Sha256": "c54dc3f0a7ac5b171ebe5335defad178915185848b92de192a9988cb11ee5125"
+        }
+      ]
+    },
+    {
+      "FileName": "eBook-How-to-Build-a-Career-in-AI.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_0.bin",
+          "Sha256": "79d4ae47b9f22db763dbbc64048c985763e59248d7a0119553cb4b855feec1a4"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_1.bin",
+          "Sha256": "97a7c4f984bc462ef9826fbfeb6432e6b7c99d11ee391c5433605f70e879dfe5"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_2.bin",
+          "Sha256": "f0c4079384332369dc0b24e1c93b3fd26e848fbee607bf22b5db267e2bfcd3ef"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_3.bin",
+          "Sha256": "35f5ac6f9f4cb0686f921cfa7811153c0b4f021cfde85934241d478ce6570312"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_4.bin",
+          "Sha256": "b3bbe88a141564257a1af8408912e470c830b3ec0f39ca941b31e33ac31503c2"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_5.bin",
+          "Sha256": "6787294e0a36a9375307c4a313f27d9247cd4b158397477067946c11758a8f21"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_6.bin",
+          "Sha256": "e6f6d05b0cc83b715f47c51740b6c5c36f81bf7925b63fa44b6e8007b6adac8d"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_7.bin",
+          "Sha256": "557fab52fec78711208fe84c9b84e1d00a782606ccc68d4eee782d185fa4b366"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_8.bin",
+          "Sha256": "9f7f194cb53dc102d2f52db5e8f0ec1b1a27ed43da2550e4e165f971e355becb"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_9.bin",
+          "Sha256": "e33529bcd4766f39ffad824edf2f9ae750f1e80b1891195e4b3e825548d87ce5"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_10.bin",
+          "Sha256": "0dbee5dc7b2c817b27ebb091dacad5fccd05073146029aa610f36f34259d99f1"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_11.bin",
+          "Sha256": "ef9d3a876ae586ba358937b5fb818b1ba735ab3f0a92944a218fffeb6afb5106"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_12.bin",
+          "Sha256": "ac909ad570ae90ba1d08099a7bd7406ccb156a8dc6c150e6771ff85288c9933d"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_13.bin",
+          "Sha256": "f8f5f86ab14d488d0b1acec01a8fc6951ba6286726e29adda4828cc122317c59"
+        },
+        {
+          "ChunkName": "eBook-How-to-Build-a-Career-in-AI.pdf_chunk_14.bin",
+          "Sha256": "568497dc89eabc7998df38f9e5fa8c98c8a80696d303d8960541efe4d93c8ea0"
+        }
+      ]
+    },
+    {
+      "FileName": "emmet cheatsheet.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "emmet cheatsheet.pdf_chunk_0.bin",
+          "Sha256": "b826f7563eb31c86afd9bfa01de91bd186e2f7f66554e2398ba35f3dc5b6f1a1"
+        },
+        {
+          "ChunkName": "emmet cheatsheet.pdf_chunk_1.bin",
+          "Sha256": "f3be10a33f4f4e5efcff8935e46f5f5ed038d75e841f94c2e2791b27a3cf2b03"
+        }
+      ]
+    },
+    {
+      "FileName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf",
+      "Chunks": [
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf_chunk_0.bin",
+          "Sha256": "0b02ec77983627887be3d5521dc9669caa94ffba6752225bb27922be3b9c7f08"
+        },
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf_chunk_1.bin",
+          "Sha256": "efc436f91f2888e2732e771e550b0b493139248d0a26f354edd24573bfb4ca00"
+        },
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf_chunk_2.bin",
+          "Sha256": "eaa4850b3f527dedee626fad1141f01e007b2ec65fe00b20d4dbe001c25ea9ec"
+        },
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf_chunk_3.bin",
+          "Sha256": "3c52d714666b11cd03314a34ef2df2027c5f73e84d2a63c57f75e57bbd2a7396"
+        },
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf_chunk_4.bin",
+          "Sha256": "8a09d024d5f496d1ea2dadc26222a220522342ab7a3d76fbcbf6fd02de2eaa54"
+        },
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf_chunk_5.bin",
+          "Sha256": "f8411d8acc29efe7a85de717aff4355488ed5474b1137dfed594a80b300319e4"
+        },
+        {
+          "ChunkName": "Finxter_Bitcoin_Whitepaper_CheatSheet_high_res (1).pdf_chunk_6.bin",
+          "Sha256": "23d4802fb4c41126726088c0ea6597ea8d0c738579c9b38aaf09e73363252d9a"
+        }
+      ]
+    },
+    {
+      "FileName": "Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page.pdf_chunk_0.bin",
+          "Sha256": "bb5eda967d64250075fdb3283d66f1a284f97ef2b2688d5e822fe3ea1fa7dbf0"
+        },
+        {
+          "ChunkName": "Simplicity_TheFinerArtOfCreatingSoftware_CheatSheet_1Page.pdf_chunk_1.bin",
+          "Sha256": "1aa4474c24743cd7c57aeb493e3b62b4e709fa60848c56350625c4433ecc2b02"
+        }
+      ]
+    },
+    {
+      "FileName": "cp program - Info.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "cp program - Info.pdf_chunk_0.bin",
+          "Sha256": "c92817d4f0dbb761eaf48ccb8decedc8601aa87fd6a476edbbb23d136538ec91"
+        }
+      ]
+    },
+    {
+      "FileName": "CheatSheet-Python-5_-Functions-and-Tricks.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "CheatSheet-Python-5_-Functions-and-Tricks.pdf_chunk_0.bin",
+          "Sha256": "6f6d95d2447e64659304d58da3e52bc854e4030ae942764650054264eec8d524"
+        }
+      ]
+    },
+    {
+      "FileName": "CheatSheet-Python-4_-Classes.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "CheatSheet-Python-4_-Classes.pdf_chunk_0.bin",
+          "Sha256": "474c3546c922a4b7b64ea5da68f8ce6d4badf18fe03399ccf634e4416ac9e351"
+        }
+      ]
+    },
+    {
+      "FileName": "Interviews Warmup Sheet - V2.0 - ___READ row 19 to make your own EDITABLE COPY___ - Info.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "Interviews Warmup Sheet - V2.0 - ___READ row 19 to make your own EDITABLE COPY___ - Info.pdf_chunk_0.bin",
+          "Sha256": "b4884e34659a0955cc4e44a47f934dc9431289efe0742d41e4c2ef29a7630066"
+        }
+      ]
+    },
+    {
+      "FileName": "andrew-ng-machine-learning-yearning.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_0.bin",
+          "Sha256": "8ffa419fdb8a60a5acbb5ddd28a56faf271e52416d8f5db4958a8f8c12c89a1f"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_1.bin",
+          "Sha256": "156551c690332122010802f7db0cf75815c615bcfa8bdc1fbd44223fcf8fd1bf"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_2.bin",
+          "Sha256": "02afbc1f3c88f2a3b4dac560759884c7f65544f1ad6096a6b243df29ddb0dbb2"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_3.bin",
+          "Sha256": "27f42777239237092a11ce3122f9a6dc2cb78bc74fe3683352b8852295a667e8"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_4.bin",
+          "Sha256": "ed14db7f2bede51b79bf9bc48d1db87fbf905744edc4f7d5e068e761206c75f0"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_5.bin",
+          "Sha256": "f9072a349264163790ce2bdcdd3605f89491c5390c861af1450e3c65cfec9872"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_6.bin",
+          "Sha256": "3102a4284ed9916bdc9320512192d77709b12c18b409b82007a16e649dd51c1d"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_7.bin",
+          "Sha256": "bc3baf21ad70a640ba467e50a0f92ded9bba7ae47fb3ab9ddcb6a86f0229d1d1"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_8.bin",
+          "Sha256": "9eebb609414bd48057ce5ea939c58ad1496aee00f07ccbda9bcd78032900f6d3"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_9.bin",
+          "Sha256": "dc135eec0fabe25e64c55bb36377e82bd285b725e7e0a3ee84837760f4f1078f"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_10.bin",
+          "Sha256": "3008ab9d41581244c0b981b3ee0604d4b3c0009af2cdb295f374c4aa4c68915b"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_11.bin",
+          "Sha256": "79d927f9cb8ad2209e0649c92272d307329590d43390b535a0107330f658a28a"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_12.bin",
+          "Sha256": "bf33153f8c4feee3b77e473375bb25d2b4414cefa40e73e37c93c417fb0a15a4"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_13.bin",
+          "Sha256": "920aaa0bf11d409e2d3f792684b30972b13b446339b90f15fef9c28566fb19cf"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_14.bin",
+          "Sha256": "d64481230f2ef8e4b9f6915419b9c8c67e9076f554f0a028b5f6b81848321cc0"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_15.bin",
+          "Sha256": "c0dcb83c76966d143e1dcda1fef6ed4527d8b8f185a647a6c83bc1be84d03efe"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_16.bin",
+          "Sha256": "0f985f84bdf153cf12c758d99ec4e2190f0ccfc32ade674533b12ff07dc29dd9"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_17.bin",
+          "Sha256": "793c096aa8439acf87cf4ce244d6773f97829bada37fbbcb11ff5225fff28c3c"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_18.bin",
+          "Sha256": "2d9136b91b64231acad8814b5896172a4e30bec5b85b3ed58874a21ea09f7727"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_19.bin",
+          "Sha256": "2a8c2f4f4e8576f2e739d81e4ac45a45fd1aa9d116a84961febf809ff57f2e35"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_20.bin",
+          "Sha256": "fe5e31c9e73d19871559cd29be023d8becd9ac528e4185832c061331085d19ac"
+        },
+        {
+          "ChunkName": "andrew-ng-machine-learning-yearning.pdf_chunk_21.bin",
+          "Sha256": "9d9b0a89dcf465bb7256c636c5af2c8f025374fbff3f3e6a3875a116a4456b3c"
+        }
+      ]
+    },
+    {
+      "FileName": "process_flow_symbols_2.jpg",
+      "Chunks": [
+        {
+          "ChunkName": "process_flow_symbols_2.jpg_chunk_0.bin",
+          "Sha256": "e45405e4184e6b551716f8437213045f2266eae15bede647e675cea48ad0dcd0"
+        }
+      ]
+    },
+    {
+      "FileName": "CheatSheet-Python-7_-NumPy-1.pdf",
+      "Chunks": [
+        {
+          "ChunkName": "CheatSheet-Python-7_-NumPy-1.pdf_chunk_0.bin",
+          "Sha256": "c7edbfea0d3389469df36ee27ac9559d4a44d95280c24c68af20da0634cde9ab"
+        }
+      ]
+    }
+  ]
+}
